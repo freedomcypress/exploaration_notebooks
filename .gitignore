@@ -3,3 +3,4 @@ Dockerfile
 */.ipynb_checkpoints/*
 *_rough*
 **/*_rough*
+*.csv
